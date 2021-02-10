@@ -1,1 +1,1 @@
-cse240project7
+This is a collection of assignments that I did in my CSE 240 Class (Intro to programming languages)

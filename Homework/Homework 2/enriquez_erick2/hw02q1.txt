@@ -1,0 +1,10 @@
+1. CSE240 - Invalid
+2. aZ1 -Invalid
+3. VWX97 - Valid
+4. Zbad99 - Valid
+5. eY55	- Valid
+6. dYaZeWkZ - Invalid
+7. XYZcde579 -Valid
+8. XYZabc3 - Invalid
+9. abcXYZ123 - Invalid
+10. edc135790V - Invalid
